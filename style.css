@@ -1,0 +1,272 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+
+.test {
+  width: 47%;
+
+  display: inline-block;
+  vertical-align: top;
+}
+
+.test img {
+  width: 100%;
+}
+
+.icon img {
+  display: inline-block;
+  width: 10%;
+  vertical-align: middle;
+}
+.icon p {
+  display: inline-block;
+}
+
+.home {
+  height: 100vh;
+  background-image: url("images/drew-coffman-1872.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+.btn {
+  margin-left: 40%;
+  margin-top: 2%;
+}
+.btn button {
+  padding: 15px 30px;
+  border-radius: 10%;
+}
+
+.home .title {
+  text-align: center;
+  padding-top: 15%;
+}
+.title p {
+  color: white;
+  font-size: 22px;
+}
+.title h1 {
+  color: white;
+  font-size: 76px;
+}
+
+.middle {
+  padding: 6% 10%;
+  height: 100vh;
+}
+
+.test .second {
+  margin-left: 10%;
+  margin-top: 12%;
+}
+.test h2 {
+  font-size: 32px;
+  color: RGB(48, 48, 48);
+}
+.test p {
+  font-size: 17px;
+  color: RGB(104, 104, 104);
+}
+
+.ourlocation {
+  background-color: #f8f8f8;
+}
+
+.words {
+  width: 45%;
+  display: inline-block;
+  vertical-align: top;
+
+  margin: 13% 0%;
+}
+
+.photo {
+  width: 40%;
+  display: inline-block;
+  margin-top: 5%;
+  margin-left: 5%;
+}
+.photo img {
+  width: 100%;
+}
+.ourlocation h2 {
+  font-size: 32px;
+  color: #303030;
+}
+.ourlocation p {
+  font-size: 17px;
+  color: #686868;
+}
+
+.full {
+  margin-left: 10%;
+}
+.ourbaking {
+  padding: 5%;
+}
+
+.breads {
+  width: 30%;
+  float: left;
+  padding: 10px;
+  margin-right: 40px;
+}
+.breads img {
+  width: 100%;
+}
+.clr {
+  clear: both;
+}
+.bakery {
+  text-align: center;
+}
+.ourbaking h3 {
+  font-size: 30px;
+  color: RGB(48, 48, 48);
+}
+.ourbaking p {
+  color: RGB(136, 136, 136);
+  font-size: 17px;
+}
+.ourbaking h4 {
+  color: RGB(48, 48, 48);
+  font-size: 22px;
+}
+.contact {
+  width: 45%;
+
+  float: left;
+}
+.contact img {
+  width: 10%;
+  background-color: #8e7754;
+  border-radius: 50%;
+}
+.frame {
+  width: 45%;
+
+  float: left;
+  margin-left: 5%;
+}
+.frame iframe {
+  width: 100%;
+  height: 65vh;
+}
+
+.data {
+  padding: 5% 5%;
+}
+.information {
+  background-color: #f8f8f8;
+}
+
+.info img {
+  display: inline-block;
+  width: 10%;
+  vertical-align: middle;
+}
+.info p {
+  display: inline-block;
+}
+.contact h2 {
+  color: RGB(48, 48, 48);
+  font-size: 32px;
+}
+.contact p {
+  color: RGB(104, 104, 104);
+  font-size: 17px;
+}
+
+.contact .info {
+  margin: 3px 0px;
+}
+
+.slide {
+  width: 23%;
+  margin: 0 10px;
+
+  float: left;
+}
+.slide img {
+  width: 6%;
+}
+
+.category {
+  background-color: #403d38;
+}
+
+.part img {
+  display: inline-block;
+  width: 7%;
+  vertical-align: middle;
+}
+.part p {
+  display: inline-block;
+  color: #969696;
+}
+
+.part2 img {
+  display: inline-block;
+  width: 7%;
+  vertical-align: middle;
+}
+.part2 p {
+  display: inline-block;
+  color: #969696;
+}
+
+.part3 img {
+  display: inline-block;
+  width: 7%;
+  vertical-align: middle;
+}
+.part3 p {
+  display: inline-block;
+  color: #969696;
+}
+
+.one {
+  color: #969696;
+}
+
+.category h4 {
+  color: #ffffff;
+  font-size: 18px;
+}
+
+.notes {
+  padding: 5% 10%;
+}
+
+.category p {
+  font-size: 16px;
+}
+
+.end {
+  width: 40%;
+
+  margin-left: 30%;
+}
+
+.end img {
+  width: 100%;
+}
+
+.social img {
+  width: 10%;
+  background-color: aquamarine;
+  border-radius: 50%;
+  float: left;
+}
+.picture {
+  margin-left: 40%;
+}
+
+.end .parag {
+  margin-left: 30%;
+}
